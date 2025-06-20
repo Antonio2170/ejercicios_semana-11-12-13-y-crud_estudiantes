@@ -1,0 +1,6 @@
+manzana
+arroz
+pera
+cereal
+carne
+lechuga
